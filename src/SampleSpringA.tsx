@@ -14,7 +14,7 @@ export default () => {
       onMouseEnter={(e) => setEnter(true)}
       onMouseLeave={(e) => setEnter(false)}
     >
-      Hello React Spring.
+      Sample Spring A.
     </animated.div>
   );
 };
